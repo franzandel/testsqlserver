@@ -1,0 +1,7 @@
+Django==2.1.15 # This is because django-pyodbc-azure only support Django 2.1
+django-mssql-backend==2.8.1 # This first
+django-pyodbc-azure==2.1.0.0 # Then this
+djangorestframework==3.12.2
+pyodbc==4.0.30 # This is also a must
+pytz==2020.5
+sqlparse==0.4.1
